@@ -1,2 +1,2 @@
-# laollacolectivo
-Página web de la Olla
+# Somos la Olla
+Colectivo de Colombianas y Colombianos en Freiburg, Alemania 
