@@ -105,6 +105,28 @@ a {
   }
 }
 
+/* Navigation Menu */
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  background-color: $header-bg-color;
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+
+    &:hover {
+      background-color: darken($header-bg-color, 10%);
+      border-radius: 5px;
+    }
+  }
+}
+
+/* Page Header */
 .page-header {
   color: $header-heading-color;
   text-align: center;
