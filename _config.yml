@@ -11,3 +11,5 @@ collections:
     output: true
     permalink: /:name/
 
+baseurl: "/laollasite"  # Project repo name here
+
