@@ -3,7 +3,7 @@ title: "Nuestro activismo"
 layout: default
 ---
 
-## Velatón - Concentración en solidaridad con la violencia en Colombia
+## Velatón - Concentración en apoyo a las manifestaciones en Colombia.
 ### Fecha: Mayo 06 de 2021.
 ### Lugar: Plaza de la antigua Sinagoga. Freiburg.
 
