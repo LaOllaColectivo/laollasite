@@ -3,10 +3,10 @@ title: "Nuestro activismo"
 layout: default
 ---
 
-## Velatón en la Sinagoga Platz.
+## 1. Velatón en la Sinagoga Platz.
 
 <div style="display: flex; align-items: center; max-width: 1200px; margin: auto;">
-  <img src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" alt="Evento 1" style="width: 200px; margin-right: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" alt="Evento 1" style="width: 400px; margin-right: 20px;">
   <div style="line-height: 1.0; text-align: justify; margin: 0;">
     <p><strong>Fecha:</strong> Mayo 06 de 2021.</p>
     <p><strong>Lugar:</strong> Plaza de la antigua Sinagoga, Freiburg.</p>
