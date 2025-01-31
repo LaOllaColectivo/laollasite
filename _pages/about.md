@@ -3,11 +3,8 @@ title: "Nuestro activismo"
 layout: default
 ---
 
-## Nuestra trayectoria
-
-## Velatón
-
-Mayo 06 de 2021. Plaza de la antigua Sinagoga.
+### Velatón - Platz der Alten Synagoge
+'Mayo 06 de 2021. Plaza de la antigua Sinagoga.'
 
 <div style="display: flex; align-items: center;">
   <img src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" alt="Evento 1" style="width: 200px; margin-right: 20px;">
