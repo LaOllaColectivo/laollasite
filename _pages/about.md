@@ -5,7 +5,7 @@ layout: default
 
 ## Velatón en la Sinagoga Platz.
 
-<div style="display: flex; align-items: center; max-width: 600px; margin: auto;">
+<div style="display: flex; align-items: center; max-width: 1000px; margin: auto;">
   <img src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" alt="Evento 1" style="width: 200px; margin-right: 20px;">
   <div style="line-height: 1.0; text-align: justify; margin: 0;">
     <p><strong>Fecha:</strong> Mayo 06 de 2021.</p>
