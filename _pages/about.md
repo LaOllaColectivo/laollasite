@@ -3,11 +3,11 @@ title: "Nuestro activismo"
 layout: default
 ---
 
-## Velatón - Concentración en apoyo a las manifestaciones en Colombia.
+## Velatón - Rechazo a la represión estatal.
 
 <div style="display: flex; align-items: center;">
   <img src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" alt="Evento 1" style="width: 200px; margin-right: 20px;">
-  <div>
+  <div style="line-height: 1.0; margin: 0;">
     <p><strong>Fecha:</strong> Mayo 06 de 2021.</p>
     <p><strong>Lugar:</strong> Plaza de la antigua Sinagoga, Freiburg.</p>
     <p>
