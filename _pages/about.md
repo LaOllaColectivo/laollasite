@@ -1,5 +1,5 @@
 ---
-title: "Nuestro activismo"
+title: "Camino"
 layout: default
 ---
 
