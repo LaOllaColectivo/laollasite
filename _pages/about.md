@@ -58,4 +58,26 @@ layout: default
 </script>
 
 
-## 2. El rio que se robaron.
+## 2. Thursdays for Freire.
+
+## 3 Retratos de Resistencia.
+
+## 4. 8M - 2022.
+
+## 5. Bici-bles.
+
+## 6. Encuentro de diásporas - Nurenberg.
+
+## 7. El rio que se robaron.
+
+## 8. Observando con el corazón del mundo.
+
+## 9. Las mujeres Paramunas.
+
+## 10. Hilando altares de la memoria y la verdad.
+
+## 11. Mujeres y minería de carbón en Cesar, Colombia.
+
+
+
+
