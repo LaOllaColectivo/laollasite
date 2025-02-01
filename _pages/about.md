@@ -7,7 +7,7 @@ layout: default
 
 <div style="display: flex; align-items: center; max-width: 1200px; margin: auto;">
   <!-- Image Carousel -->
-  <div style="position: relative; max-width: 1600px; margin-right: 20px;">
+  <div style="position: relative; max-width: 3200px; margin-right: 20px;">
     <!-- Left Arrow -->
     <button onclick="prevImage()" 
             style="position: absolute; top: 50%; left: -40px; transform: translateY(-50%); background: none; border: none; cursor: pointer; font-size: 24px;">
