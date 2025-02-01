@@ -7,7 +7,7 @@ layout: default
 
 <div style="display: flex; align-items: center; max-width: 1200px; margin: auto;">
   <!-- Image Carousel -->
-  <div style="position: relative; width: 200px; margin-right: 20px;">
+  <div style="position: relative; width: 400px; margin-right: 20px;">
     <img id="carousel-image" src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" 
         alt="Evento 1" style="width: 200px; display: block;">
     
