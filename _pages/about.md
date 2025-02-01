@@ -3,6 +3,8 @@ title: "Camino"
 layout: default
 ---
 
+A continuación se muestran algunos de los eventos en los que La Olla ha participado.
+
 ## 1. Velatón en la Sinagoga Platz.
 
 <div style="display: flex; align-items: center; max-width: 2000px; margin: auto;">
