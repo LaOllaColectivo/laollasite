@@ -3,9 +3,9 @@ title: "Camino"
 layout: default
 ---
 
-# Nuestro Camino
+# Nuestro camino
 
-A continuación se muestran algunos de los eventos en los que La Olla ha participado. Lista en construcción.
+A continuación se listan algunos de los eventos en los que La Olla ha participado. Lista en construcción.
 
 ## 1. Velatón en la Sinagoga Platz.
 
@@ -18,7 +18,7 @@ A continuación se muestran algunos de los eventos en los que La Olla ha partici
       ◀
     </button>
 
-    <img id="carousel-image" src="{{ site.baseurl }}/assets/images/velaton2.JPG" 
+    <img id="carousel-image" src="{{ site.baseurl }}/assets/images/velaton_2.JPG" 
         alt="Evento 1" style="width: 100%; height: auto; display: block; max-width: 1200px; object-fit: contain;">
 
     <!-- Right Arrow -->
