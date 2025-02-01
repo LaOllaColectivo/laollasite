@@ -7,19 +7,19 @@ layout: default
 
 <div style="display: flex; align-items: center; max-width: 1200px; margin: auto;">
   <!-- Image Carousel -->
-  <div style="position: relative; width: 2000px; margin-right: 20px;">
+  <div style="position: relative; max-width: 800px; margin-right: 20px;">
     <img id="carousel-image" src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" 
         alt="Evento 1" style="width: 200px; display: block;">
     
     <!-- Left Arrow -->
     <button onclick="prevImage()" 
-            style="position: absolute; top: 50%; left: -20px; transform: translateY(-50%); background: none; border: none; cursor: pointer;">
+            style="position: absolute; top: 50%; left: -40px; transform: translateY(-50%); background: none; border: none; cursor: pointer; font-size: 24px;">
       ◀
     </button>
     
     <!-- Right Arrow -->
     <button onclick="nextImage()" 
-            style="position: absolute; top: 50%; right: -20px; transform: translateY(-50%); background: none; border: none; cursor: pointer;">
+            style="position: absolute; top: 50%; right: -40px; transform: translateY(-50%); background: none; border: none; cursor: pointer; font-size: 24px;">
       ▶
     </button>
   </div>
