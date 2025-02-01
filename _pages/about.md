@@ -32,7 +32,6 @@ layout: default
     <p><strong>Descripción:</strong> Concentración convocada por la comunidad Colombiana en apoyo a las manifestaciones realizadas en Colombia ante las profundas desigualdades sociales. Principalmente rechazo a la violencia ejercida por parte de la policía en contra de manifestantes exacerbada el 28.04.2021, con varios asesinatos y decenas de heridos. Esto marcó el inicio del denominado Paro Nacional de 2021, que duraría varios meses y contaría con diversas expresiones artísticas y culturales en Colombia con un gran impacto sociopolítico. A su vez, marca el inicio del colectivo <strong>La Olla</strong> en Freiburg, Alemania.
     </p>
   </div>
-</div>
 
 <!-- JavaScript for Carousel -->
 <script>
@@ -57,3 +56,6 @@ layout: default
     imgElement.src = images[currentIndex];
   }
 </script>
+
+
+## 2. El rio que se robaron.
