@@ -3,37 +3,30 @@
 
 @import 'jekyll-theme-cayman';
 
-/* Custom styles start here */
+/* Reduce space above the logo */
+.page-header img {
+  margin-top: 10px; /* Adjust as needed */
+  max-width: 250px; /* Ensure it doesn't become too large */
+}
+
+/* Reduce space between title, description, and menu */
+.page-header {
+  padding: 10px 0 !important; /* Reduce overall header padding */
+  margin-bottom: 10px !important; /* Reduce gap before menu */
+}
+
+/* Reduce space below the description */
+.project-tagline {
+  margin-bottom: 5px !important; /* Adjust as needed */
+}
+
+/* Reduce space before the menu bar */
 .nav-menu {
-  display: flex;
-  justify-content: center;
-  background-color: $header-bg-color;
-  padding: 10px 0;
   margin-top: 5px !important; /* Reduce space between description and menu */
 }
 
-.nav-menu ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
+/* Optional: Reduce global page margins */
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
-
-.nav-menu li {
-  margin: 0 15px;
-}
-
-.nav-menu a {
-  text-decoration: none;
-  color: $body-text-color;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-}
-
-.nav-menu a:hover {
-  background-color: darken($header-bg-color, 10%);
-  border-radius: 5px;
-  text-decoration: underline;
-}
-
-/* Additional custom styles can be added here */
