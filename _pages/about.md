@@ -88,10 +88,11 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
   <div style="line-height: 1.1; text-align: justify; margin: 0;">
     
     <!-- Description -->
-  <p> <strong>Descripción:</strong> El círculo de lectura “Thursdays for Freire“ - Pensar para la paz: Educación para la democracia, hizo parte de un conjunto de iniciativas llevadas a cabo en todo el mundo con motivo del 100 aniversario del nacimiento del pedagogo y filósofo brasileño Paulo Freire. Este espacio, liderado por el colectivo Aluna Minga, buscaba un ejercicio de reflexión sobre el rol y las posibilidades que tiene la educación para la construcción de una sociedad democrática a la luz del pensamiento de diversos autores(as) latinoamericanos(as). En Freiburg, nos reunimos 1 vez a la semana durante 2 meses, para releer y reflexionar las lecturas sugeridas. La última sesión fué un simposio se llevó a cabo en Munich en el que ambos colectivos (Aluna Minga y La Olla), compartieron experiencias del cŕiculo de lectura, y reafirmaron su compromiso para seguir pensando la Paz y la educación para la democracia.
+  <p> <strong>Descripción:</strong> El círculo de lectura “Thursdays for Freire“ - Pensar para la paz: Educación para la democracia, hizo parte de un conjunto de iniciativas llevadas a cabo en todo el mundo con motivo del 100 aniversario del nacimiento del pedagogo y filósofo brasileño Paulo Freire. Este espacio, liderado por el colectivo Aluna Minga, buscaba un ejercicio de reflexión sobre el rol y las posibilidades que tiene la educación para la construcción de una sociedad democrática a la luz del pensamiento de diversos autores(as) latinoamericanos(as).  En Freiburg, desde el jueves 08 de julio y por siete sesiones más, nos encontramos cada 15 día en un café o espacio cultural de Freiburg para leer juntas, comer, discutir y compartir experiencias e interpretaciones acerca de cómo entendemos y proyectamos la educación a la luz las lecturas sugeridas. La última sesión fué un simposio se llevó a cabo en Munich en el que ambos colectivos (Aluna Minga y La Olla), compartieron experiencias del cŕiculo de lectura, y reafirmaron su compromiso para seguir pensando la Paz y la educación para la democracia.
+    
   </p>
-    <p><strong>Fecha:</strong> Julio 07 a Octubre 22 de 2021.</p>
-    <p><strong>Lugar:</strong> Distintas sedes de grupos activistas y cafés en Freiburg i.B.</p>
+    <p><strong>Fecha:</strong> Julio 08 a Octubre 22 de 2021.</p>
+    <p><strong>Lugar:</strong> Distintos cafés y espacios culturales en Freiburg.</p>
   </div>
 
 <!-- JavaScript for Carousel -->
