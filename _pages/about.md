@@ -74,7 +74,7 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
       ◀
     </button>
 
-    <img id="carousel-image" src="{{ site.baseurl }}/assets/images/velaton_06052021.JPG" 
+    <img id="carousel-image" src="{{ site.baseurl }}/assets/images/Freire_0.JPG" 
         alt="Evento 1" style="width: 100%; height: auto; display: block; max-width: 1200px; object-fit: contain;">
 
     <!-- Right Arrow -->
@@ -99,9 +99,9 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
 <script>
   var images = [
     "{{ site.baseurl }}/assets/images/Freire_0.JPG",
-    "{{ site.baseurl }}/assets/images/Freire_1.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_1.HEIC",
     "{{ site.baseurl }}/assets/images/Freire_2.JPG",
-    "{{ site.baseurl }}/assets/images/Freire_3.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_3.HEIC",
     "{{ site.baseurl }}/assets/images/Freire_Flayer.PDF",
     "{{ site.baseurl }}/assets/images/Freire_logo.JPG"
   ];
