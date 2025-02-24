@@ -98,12 +98,12 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
 <!-- JavaScript for Carousel -->
 <script>
   var images = [
-    "{{ site.baseurl }}/assets/images/velaton_2.JPG",
-    "{{ site.baseurl }}/assets/images/velaton_06052021.JPG",
-    "{{ site.baseurl }}/assets/images/velaton_3.JPG",
-    "{{ site.baseurl }}/assets/images/velaton_4.JPG",
-    "{{ site.baseurl }}/assets/images/velaton_5.JPG",
-    "{{ site.baseurl }}/assets/images/velaton_6.JPG"
+    "{{ site.baseurl }}/assets/images/Freire_0.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_1.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_2.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_3.JPG",
+    "{{ site.baseurl }}/assets/images/Freire_Flayer.PDF",
+    "{{ site.baseurl }}/assets/images/Freire_logo.JPG"
   ];
   var currentIndex = 0;
   var imgElement = document.getElementById("carousel-image");
