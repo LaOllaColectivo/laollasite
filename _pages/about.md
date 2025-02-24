@@ -63,7 +63,7 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
 </script>
 
 
-## 2. Pensar para la Paz. Educación para el compromiso social - Círculo de lectura "Thursdays for Freire".
+## 2. Círculo de lectura "Thursdays for Freire". Pensar para la Paz. Educación para el compromiso social.
 
 ## 3 Retratos de Resistencia.
 
