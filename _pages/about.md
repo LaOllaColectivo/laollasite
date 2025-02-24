@@ -75,7 +75,7 @@ A continuación se listan algunos de los eventos en los que La Olla ha participa
     </button>
 
     <img id="carousel-image" src="{{ site.baseurl }}/assets/images/Freire_0.JPG" 
-        alt="Evento 1" style="width: 100%; height: auto; display: block; max-width: 1200px; object-fit: contain;">
+        alt="Evento 2" style="width: 100%; height: auto; display: block; max-width: 1200px; object-fit: contain;">
 
     <!-- Right Arrow -->
     <button onclick="nextImage()" 
